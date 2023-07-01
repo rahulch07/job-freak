@@ -1,2 +1,2 @@
 # job-freak
-#Assignment for Internship selection.
+Assignment for Internship selection.
